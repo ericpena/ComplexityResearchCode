@@ -1,4 +1,6 @@
 # ResearchCode
 Code used in conducting Life Worth Mentioning research.
 
-* Updated Code
+* lifelikefunctions.py
+* migfunctions.py
+* main.py
