@@ -1,5 +1,5 @@
 # Journal Article
-[https://direct.mit.edu/artl/article/27/2/105/107883/Life-Worth-Mentioning-Complexity-in-Life-Like](url)
+[https://direct.mit.edu/artl/article/27/2/105/107883/Life-Worth-Mentioning-Complexity-in-Life-Like](https://direct.mit.edu/artl/article/27/2/105/107883/Life-Worth-Mentioning-Complexity-in-Life-Like)
 
 # ResearchCode
 Code used in conducting Life Worth Mentioning research.
